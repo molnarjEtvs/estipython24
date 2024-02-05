@@ -1,0 +1,114 @@
+Név: Jmint József
+Befizetett összeg: 65740 Ft
+Átlag befizetés: 21913.333333333332 Ft
+Kedvezmény: 20 Ft
+Kedvezmény összege: 13148.0 Ft
+-----------------------------
+Név: Mint Mónika
+Befizetett összeg: 29470 Ft
+Átlag befizetés: 5894.0 Ft
+Kedvezmény: 30 Ft
+Kedvezmény összege: 8841.0 Ft
+-----------------------------
+Név: Zmint Zoltán
+Befizetett összeg: 36400 Ft
+Átlag befizetés: 4550.0 Ft
+Kedvezmény: 10 Ft
+Kedvezmény összege: 3640.0 Ft
+-----------------------------
+Név: Amint Attila
+Befizetett összeg: 56666 Ft
+Átlag befizetés: 6296.222222222223 Ft
+Kedvezmény: 10 Ft
+Kedvezmény összege: 5666.6 Ft
+-----------------------------
+Név: Vmint Viktor
+Befizetett összeg: 321456 Ft
+Átlag befizetés: 80364.0 Ft
+Kedvezmény: 40 Ft
+Kedvezmény összege: 128582.40000000001 Ft
+-----------------------------
+Név: Kmint Károly
+Befizetett összeg: 23500 Ft
+Átlag befizetés: 7833.333333333333 Ft
+Kedvezmény: 40 Ft
+Kedvezmény összege: 9400.0 Ft
+-----------------------------
+Név: Pmint Péter
+Befizetett összeg: 14500 Ft
+Átlag befizetés: 2900.0 Ft
+Kedvezmény: 10 Ft
+Kedvezmény összege: 1450.0 Ft
+-----------------------------
+Név: Hmint Hugó
+Befizetett összeg: 69500 Ft
+Átlag befizetés: 9928.57142857143 Ft
+Kedvezmény: 30 Ft
+Kedvezmény összege: 20850.0 Ft
+-----------------------------
+Név: Smint Sándor
+Befizetett összeg: 112500 Ft
+Átlag befizetés: 37500.0 Ft
+Kedvezmény: 30 Ft
+Kedvezmény összege: 33750.0 Ft
+-----------------------------
+Név: Rmint Róbert
+Befizetett összeg: 98200 Ft
+Átlag befizetés: 24550.0 Ft
+Kedvezmény: 20 Ft
+Kedvezmény összege: 19640.0 Ft
+-----------------------------
+Név: Fmint Ferenc
+Befizetett összeg: 34980 Ft
+Átlag befizetés: 5830.0 Ft
+Kedvezmény: 30 Ft
+Kedvezmény összege: 10494.0 Ft
+-----------------------------
+Név: Amint Andrea
+Befizetett összeg: 54300 Ft
+Átlag befizetés: 10860.0 Ft
+Kedvezmény: 10 Ft
+Kedvezmény összege: 5430.0 Ft
+-----------------------------
+Név: Kmintné Katalin
+Befizetett összeg: 100345 Ft
+Átlag befizetés: 14335.0 Ft
+Kedvezmény: 30 Ft
+Kedvezmény összege: 30103.5 Ft
+-----------------------------
+Név: Lmint Lajos
+Befizetett összeg: 20125 Ft
+Átlag befizetés: 2236.1111111111113 Ft
+Kedvezmény: 20 Ft
+Kedvezmény összege: 4025.0 Ft
+-----------------------------
+Név: Zmint Zita
+Befizetett összeg: 333579 Ft
+Átlag befizetés: 83394.75 Ft
+Kedvezmény: 40 Ft
+Kedvezmény összege: 133431.6 Ft
+-----------------------------
+Név: János Jakab
+Befizetett összeg: 200300 Ft
+Átlag befizetés: 66766.66666666667 Ft
+Kedvezmény: 20 Ft
+Kedvezmény összege: 40060.0 Ft
+-----------------------------
+Név: Omint Olga
+Befizetett összeg: 301620 Ft
+Átlag befizetés: 33513.333333333336 Ft
+Kedvezmény: 10 Ft
+Kedvezmény összege: 30162.0 Ft
+-----------------------------
+Név: Nmint Nándor
+Befizetett összeg: 740258 Ft
+Átlag befizetés: 185064.5 Ft
+Kedvezmény: 10 Ft
+Kedvezmény összege: 74025.8 Ft
+-----------------------------
+Név: Ömint Ödön
+Befizetett összeg: 870430 Ft
+Átlag befizetés: 124347.14285714286 Ft
+Kedvezmény: 30 Ft
+Kedvezmény összege: 261129.0 Ft
+-----------------------------
