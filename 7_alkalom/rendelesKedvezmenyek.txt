@@ -1,0 +1,105 @@
+Rendelés dátuma: 2022.01.01
+Összeg: 3950 Ft
+Kedvezmény: 15% -> 592.5 Ft 
+Végösszeg: 3357.5 Ft
+---------------------------------
+Rendelés dátuma: 2022.01.03
+Összeg: 13850 Ft
+Kedvezmény: 10% -> 1385.0 Ft 
+Végösszeg: 12465.0 Ft
+---------------------------------
+Rendelés dátuma: 2022.02.01
+Összeg: 8547 Ft
+Kedvezmény: 15% -> 1282.05 Ft 
+Végösszeg: 7264.95 Ft
+---------------------------------
+Rendelés dátuma: 2022.02.03
+Összeg: 9658 Ft
+Kedvezmény: 15% -> 1448.7 Ft 
+Végösszeg: 8209.3 Ft
+---------------------------------
+Rendelés dátuma: 2022.02.11
+Összeg: 7415 Ft
+Kedvezmény: 10% -> 741.5 Ft 
+Végösszeg: 6673.5 Ft
+---------------------------------
+Rendelés dátuma: 2022.03.21
+Összeg: 9632 Ft
+Kedvezmény: 5% -> 481.6 Ft 
+Végösszeg: 9150.4 Ft
+---------------------------------
+Rendelés dátuma: 2022.03.22
+Összeg: 2589 Ft
+Kedvezmény: 5% -> 129.45000000000002 Ft 
+Végösszeg: 2459.55 Ft
+---------------------------------
+Rendelés dátuma: 2022.03.24
+Összeg: 7536 Ft
+Kedvezmény: 15% -> 1130.3999999999999 Ft 
+Végösszeg: 6405.6 Ft
+---------------------------------
+Rendelés dátuma: 2022.03.25
+Összeg: 125896 Ft
+Kedvezmény: 10% -> 12589.6 Ft 
+Végösszeg: 113306.4 Ft
+---------------------------------
+Rendelés dátuma: 2022.04.01
+Összeg: 38547 Ft
+Kedvezmény: 12% -> 4625.639999999999 Ft 
+Végösszeg: 33921.36 Ft
+---------------------------------
+Rendelés dátuma: 2022.04.25
+Összeg: 96547 Ft
+Kedvezmény: 12% -> 11585.64 Ft 
+Végösszeg: 84961.36 Ft
+---------------------------------
+Rendelés dátuma: 2022.04.26
+Összeg: 122555 Ft
+Kedvezmény: 5% -> 6127.75 Ft 
+Végösszeg: 116427.25 Ft
+---------------------------------
+Rendelés dátuma: 2022.04.29
+Összeg: 336987 Ft
+Kedvezmény: 10% -> 33698.700000000004 Ft 
+Végösszeg: 303288.3 Ft
+---------------------------------
+Rendelés dátuma: 2022.05.02
+Összeg: 25474 Ft
+Kedvezmény: 5% -> 1273.7 Ft 
+Végösszeg: 24200.3 Ft
+---------------------------------
+Rendelés dátuma: 2022.05.04
+Összeg: 18524 Ft
+Kedvezmény: 12% -> 2222.88 Ft 
+Végösszeg: 16301.119999999999 Ft
+---------------------------------
+Rendelés dátuma: 2022.06.06
+Összeg: 952371 Ft
+Kedvezmény: 5% -> 47618.55 Ft 
+Végösszeg: 904752.45 Ft
+---------------------------------
+Rendelés dátuma: 2022.07.08
+Összeg: 6352 Ft
+Kedvezmény: 5% -> 317.6 Ft 
+Végösszeg: 6034.4 Ft
+---------------------------------
+Rendelés dátuma: 2022.08.10
+Összeg: 9874 Ft
+Kedvezmény: 12% -> 1184.8799999999999 Ft 
+Végösszeg: 8689.12 Ft
+---------------------------------
+Rendelés dátuma: 2022.08.13
+Összeg: 9519 Ft
+Kedvezmény: 15% -> 1427.85 Ft 
+Végösszeg: 8091.15 Ft
+---------------------------------
+Rendelés dátuma: 2022.08.15
+Összeg: 36945 Ft
+Kedvezmény: 5% -> 1847.25 Ft 
+Végösszeg: 35097.75 Ft
+---------------------------------
+Rendelés dátuma: 2022.08.16
+Összeg: 111789 Ft
+Kedvezmény: 5% -> 5589.450000000001 Ft 
+Végösszeg: 106199.55 Ft
+---------------------------------
