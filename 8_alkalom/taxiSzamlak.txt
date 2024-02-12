@@ -1,0 +1,140 @@
+Azonosító: A123X
+Utasok száma: 3 db
+KM állás: 12547 km
+Számlaszám: #989#
+Útdíj: 20680 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: B567Y
+Utasok száma: 2 db
+KM állás: 9839 km
+Számlaszám: #972#
+Útdíj: 17160 Ft
+Szervíz szükséglet: NEM
+------------------------------------
+Azonosító: C890Z
+Utasok száma: 5 db
+KM állás: 22038 km
+Számlaszám: #696#
+Útdíj: 16720 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: D234X
+Utasok száma: 1 db
+KM állás: 3445 km
+Számlaszám: #466#
+Útdíj: 19800 Ft
+Szervíz szükséglet: NEM
+------------------------------------
+Azonosító: E678Y
+Utasok száma: 4 db
+KM állás: 17510 km
+Számlaszám: #233#
+Útdíj: 4400 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: F901Z
+Utasok száma: 2 db
+KM állás: 8813 km
+Számlaszám: #661#
+Útdíj: 5720 Ft
+Szervíz szükséglet: NEM
+------------------------------------
+Azonosító: G345X
+Utasok száma: 3 db
+KM állás: 13532 km
+Számlaszám: #487#
+Útdíj: 14080 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: H789Y
+Utasok száma: 2 db
+KM állás: 10511 km
+Számlaszám: #155#
+Útdíj: 4840 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: I012Z
+Utasok száma: 6 db
+KM állás: 26043 km
+Számlaszám: #598#
+Útdíj: 18920 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: J456X
+Utasok száma: 2 db
+KM állás: 8248 km
+Számlaszám: #142#
+Útdíj: 21120 Ft
+Szervíz szükséglet: NEM
+------------------------------------
+Azonosító: K789Y
+Utasok száma: 3 db
+KM állás: 14248 km
+Számlaszám: #194#
+Útdíj: 21120 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: L123Z
+Utasok száma: 4 db
+KM állás: 19515 km
+Számlaszám: #754#
+Útdíj: 6600 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: M567X
+Utasok száma: 1 db
+KM állás: 4111 km
+Számlaszám: #308#
+Útdíj: 4840 Ft
+Szervíz szükséglet: NEM
+------------------------------------
+Azonosító: N890Y
+Utasok száma: 2 db
+KM állás: 9416 km
+Számlaszám: #947#
+Útdíj: 7040 Ft
+Szervíz szükséglet: NEM
+------------------------------------
+Azonosító: O234Z
+Utasok száma: 5 db
+KM állás: 21032 km
+Számlaszám: #608#
+Útdíj: 14080 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: P678X
+Utasok száma: 3 db
+KM állás: 15511 km
+Számlaszám: #600#
+Útdíj: 4840 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: Q901Y
+Utasok száma: 2 db
+KM állás: 10325 km
+Számlaszám: #416#
+Útdíj: 11000 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: R345Z
+Utasok száma: 6 db
+KM állás: 25030 km
+Számlaszám: #664#
+Útdíj: 13200 Ft
+Szervíz szükséglet: IGEN
+------------------------------------
+Azonosító: S789X
+Utasok száma: 2 db
+KM állás: 7633 km
+Számlaszám: #901#
+Útdíj: 14520 Ft
+Szervíz szükséglet: NEM
+------------------------------------
+Azonosító: T012Y
+Utasok száma: 3 db
+KM állás: 13224 km
+Számlaszám: #253#
+Útdíj: 10560 Ft
+Szervíz szükséglet: IGEN
+------------------------------------

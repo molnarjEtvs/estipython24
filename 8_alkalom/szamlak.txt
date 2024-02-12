@@ -1,0 +1,100 @@
+Név: Anna
+Azonosító: A
+Sorszám: #484
+45 perc * 15 Ft = 608 Ft
+-------------------------
+Név: Béla
+Azonosító: B
+Sorszám: #398
+64 perc * 12 Ft = 691 Ft
+-------------------------
+Név: Cecília
+Azonosító: D
+Sorszám: #491
+83 perc * 20 Ft = 1660 Ft
+-------------------------
+Név: Dániel
+Azonosító: A
+Sorszám: #579
+51 perc * 18 Ft = 826 Ft
+-------------------------
+Név: Emma
+Azonosító: C
+Sorszám: #490
+72 perc * 14 Ft = 1008 Ft
+-------------------------
+Név: Ferenc
+Azonosító: A
+Sorszám: #340
+68 perc * 16 Ft = 979 Ft
+-------------------------
+Név: Gizella
+Azonosító: D
+Sorszám: #452
+92 perc * 10 Ft = 920 Ft
+-------------------------
+Név: Hanna
+Azonosító: A
+Sorszám: #322
+76 perc * 11 Ft = 752 Ft
+-------------------------
+Név: István
+Azonosító: B
+Sorszám: #404
+96 perc * 21 Ft = 1814 Ft
+-------------------------
+Név: Júlia
+Azonosító: C
+Sorszám: #353
+57 perc * 13 Ft = 741 Ft
+-------------------------
+Név: Károly
+Azonosító: A
+Sorszám: #389
+79 perc * 17 Ft = 1209 Ft
+-------------------------
+Név: Lilla
+Azonosító: D
+Sorszám: #405
+88 perc * 22 Ft = 1936 Ft
+-------------------------
+Név: Márton
+Azonosító: A
+Sorszám: #511
+60 perc * 10 Ft = 540 Ft
+-------------------------
+Név: Nóra
+Azonosító: B
+Sorszám: #348
+76 perc * 12 Ft = 821 Ft
+-------------------------
+Név: Orsolya
+Azonosító: D
+Sorszám: #589
+95 perc * 15 Ft = 1425 Ft
+-------------------------
+Név: Péter
+Azonosító: A
+Sorszám: #442
+37 perc * 19 Ft = 633 Ft
+-------------------------
+Név: Réka
+Azonosító: B
+Sorszám: #545
+84 perc * 16 Ft = 1210 Ft
+-------------------------
+Név: Sára
+Azonosító: C
+Sorszám: #516
+47 perc * 11 Ft = 517 Ft
+-------------------------
+Név: Tamás
+Azonosító: A
+Sorszám: #464
+91 perc * 20 Ft = 1638 Ft
+-------------------------
+Név: Zsófia
+Azonosító: D
+Sorszám: #342
+63 perc * 14 Ft = 882 Ft
+-------------------------
