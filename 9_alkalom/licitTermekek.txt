@@ -1,0 +1,10 @@
+Nike cipő;100;2
+Laptop;200;10
+Iphone 10;125;11
+Samasung S20;86;13
+PlayStation 5;49;16
+Xbox 360;56;4
+Tablet;89;3
+Gamer PC;320;20
+UHD Samsung TV;99;5
+USA álomút;63;3

@@ -1,0 +1,120 @@
+Csapat neve: Juventus
+Bajnoki helyezés: 20
+Játék eredménye: NYERT
+Új edzettségi szint: 5.3
+Új energia szint 8.8
+**********************************
+Csapat neve: FC Barcelona
+Bajnoki helyezés: 11
+Játék eredménye: VESZTETT
+Új edzettségi szint: 0.30000000000000004
+Új energia szint 9.8
+**********************************
+Csapat neve: Real Madrid
+Bajnoki helyezés: 6
+Játék eredménye: DÖNTETLEN
+Új edzettségi szint: 4.3
+Új energia szint 7.8
+**********************************
+Csapat neve: Ferencváros
+Bajnoki helyezés: 13
+Játék eredménye: VESZTETT
+Új edzettségi szint: -0.09999999999999964
+Új energia szint 6.8
+**********************************
+Csapat neve: Bayern München
+Bajnoki helyezés: 10
+Játék eredménye: NYERT
+Új edzettségi szint: 2.6
+Új energia szint 10.3
+**********************************
+Csapat neve: Magyarország
+Bajnoki helyezés: 7
+Játék eredménye: NYERT
+Új edzettségi szint: 3.6
+Új energia szint 11.3
+**********************************
+Csapat neve: Manchester United
+Bajnoki helyezés: 6
+Játék eredménye: NYERT
+Új edzettségi szint: 2.3
+Új energia szint 9.8
+**********************************
+Csapat neve: Chelsea
+Bajnoki helyezés: 14
+Játék eredménye: VESZTETT
+Új edzettségi szint: 2.6
+Új energia szint 7.3
+**********************************
+Csapat neve: Arsenal
+Bajnoki helyezés: 11
+Játék eredménye: DÖNTETLEN
+Új edzettségi szint: 6.3
+Új energia szint 7.8
+**********************************
+Csapat neve: Lombard Pápa
+Bajnoki helyezés: 16
+Játék eredménye: VESZTETT
+Új edzettségi szint: 0.30000000000000004
+Új energia szint 5.9
+**********************************
+Csapat neve: AC Milan
+Bajnoki helyezés: 44
+Játék eredménye: VESZTETT
+Új edzettségi szint: -2.0999999999999996
+Új energia szint 11.9
+**********************************
+Csapat neve: Liverpool
+Bajnoki helyezés: 31
+Játék eredménye: VESZTETT
+Új edzettségi szint: 5.6
+Új energia szint 9.7
+**********************************
+Csapat neve: Spanyolország
+Bajnoki helyezés: 29
+Játék eredménye: DÖNTETLEN
+Új edzettségi szint: 8.3
+Új energia szint 9.1
+**********************************
+Csapat neve: Borussia Dortmund
+Bajnoki helyezés: 15
+Játék eredménye: DÖNTETLEN
+Új edzettségi szint: 7.3
+Új energia szint 9.6
+**********************************
+Csapat neve: Manchester City
+Bajnoki helyezés: 79
+Játék eredménye: NYERT
+Új edzettségi szint: 5.3
+Új energia szint 6.2
+**********************************
+Csapat neve: Debreceni VSC
+Bajnoki helyezés: 66
+Játék eredménye: VESZTETT
+Új edzettségi szint: 0.6000000000000001
+Új energia szint 7.4
+**********************************
+Csapat neve: Inter
+Bajnoki helyezés: 45
+Játék eredménye: VESZTETT
+Új edzettségi szint: 1.9000000000000004
+Új energia szint 7.1
+**********************************
+Csapat neve: Paris St. Germain
+Bajnoki helyezés: 32
+Játék eredménye: DÖNTETLEN
+Új edzettségi szint: 7.6
+Új energia szint 6.3
+**********************************
+Csapat neve: Atlético Madrid
+Bajnoki helyezés: 65
+Játék eredménye: VESZTETT
+Új edzettségi szint: 2.9000000000000004
+Új energia szint 6.8
+**********************************
+Csapat neve: Németország
+Bajnoki helyezés: 77
+Játék eredménye: VESZTETT
+Új edzettségi szint: 5.3
+Új energia szint 6.4
+**********************************

@@ -1,0 +1,20 @@
+Juventus|22|6|7.3
+FC Barcelona|8|1|8.3
+Real Madrid|7|5|6.3
+Ferencváros|10|2|2.3
+Bayern München|12|4|7.3
+Magyarország|9|5|8.3
+Manchester United|8|3|8.3
+Chelsea|11|4|4.3
+Arsenal|12|7|6.3
+Lombard Pápa|13|1|4.4
+AC Milan|41|0|7.4
+Liverpool|28|7|6.7
+Spanyolország|30|9|7.6
+Borussia Dortmund|16|8|8.1
+Manchester City|81|6|4.7
+Debreceni VSC|63|2|4.4
+Inter|42|4|2.6
+Paris St. Germain|33|9|3.3
+Atlético Madrid|62|5|2.3
+Németország|74|6|4.9

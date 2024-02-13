@@ -1,0 +1,60 @@
+Név: Nike cipő
+Licitek száma: 4
+Maradék Bid: 92
+Ár: 101200.00000000001
+Megnyerve: IGEN
+-----------------------------
+Név: Laptop
+Licitek száma: 20
+Maradék Bid: 0
+Ár: 0.0
+Megnyerve: NEM
+-----------------------------
+Név: Iphone 10
+Licitek száma: 4
+Maradék Bid: 81
+Ár: 89100.0
+Megnyerve: IGEN
+-----------------------------
+Név: Samasung S20
+Licitek száma: 3
+Maradék Bid: 47.0126
+Ár: 51713.86
+Megnyerve: IGEN
+-----------------------------
+Név: PlayStation 5
+Licitek száma: 4
+Maradék Bid: 0
+Ár: 0.0
+Megnyerve: NEM
+-----------------------------
+Név: Xbox 360
+Licitek száma: 14
+Maradék Bid: 0
+Ár: 0.0
+Megnyerve: NEM
+-----------------------------
+Név: Tablet
+Licitek száma: 3
+Maradék Bid: 80
+Ár: 88000.0
+Megnyerve: IGEN
+-----------------------------
+Név: Gamer PC
+Licitek száma: 14
+Maradék Bid: 40
+Ár: 44000.0
+Megnyerve: IGEN
+-----------------------------
+Név: UHD Samsung TV
+Licitek száma: 1
+Maradék Bid: 94
+Ár: 103400.00000000001
+Megnyerve: IGEN
+-----------------------------
+Név: USA álomút
+Licitek száma: 5
+Maradék Bid: 48
+Ár: 52800.00000000001
+Megnyerve: IGEN
+-----------------------------
