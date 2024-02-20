@@ -1,0 +1,46 @@
+.piros{
+    background-color: red;
+    margin: 0 auto;
+    margin-top: 200px;
+    width: 300px;
+    height: 300px;
+    
+}
+.kozos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.belsoKozos{
+    animation-name: forgatas;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    width: 86%;
+    height: 86%;
+}
+.sarga{
+    background-color: yellow;
+}
+.rozsa{
+    background-color: purple;
+}
+.lightRozsa{
+    background-color: lightpink;
+}
+.blue{
+    background-color: lightseagreen;
+}
+.har{
+    background-color: orange;
+}
+@keyframes forgatas{
+    0%{
+        rotate: 0deg;
+    }
+    50%{
+        rotate: 30deg;
+    }
+    100%{
+        rotate: 0deg;
+    }
+}

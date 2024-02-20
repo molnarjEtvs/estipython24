@@ -1,0 +1,88 @@
+.lab{
+    background-image: url('labirintus.jpg');
+    width: 427px;
+    height: 422px;
+    position: relative;
+    margin-top: 60px;
+}
+.potty{
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    position: absolute;
+    left:201px;
+    top:20px;
+    animation-name: mozgas;
+    animation-fill-mode: forwards;
+    animation-direction: alternate; 
+    animation-iteration-count: infinite;
+    animation-duration: 6s;
+}
+@keyframes mozgas {
+    0%{
+        left:201px;
+        top:20px;
+      
+    }
+    8%{
+        left:201px;
+        top:70px;
+        
+        
+    }
+    16%{
+        left:320px;
+        top:70px;
+        
+    }
+    24%{
+        left:320px;
+        top:180px;
+    
+    }
+    31%{
+        left:150px;
+        top:180px;
+      
+    }
+    36%{
+        left:150px;
+        top:130px;
+        
+    }
+    44%{
+        left:90px;
+        top:130px;
+        
+    }
+    52%{
+        left:90px;
+        top:190px;
+        
+    }
+    60%{
+        left:30px;
+        top:190px;
+    }
+    68%{
+        left:30px;
+        top:300px;
+    }
+    76%{
+        left:150px;
+        top:300px;
+    }
+    84%{
+        left:150px;
+        top:360px;
+    }
+    92%{
+        left:200px;
+        top:360px;
+    } 
+    100%{
+        left:200px;
+        top:490px;
+    }
+}
