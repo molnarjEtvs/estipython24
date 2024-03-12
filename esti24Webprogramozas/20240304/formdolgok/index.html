@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form method="get" autocomplete="off" enctype="multipart/form-data">
+        <input type="text" name="nev" id="nev" maxlength="10" placeholder="Ide írd a neved" 
+        value="Béla" readonly>
+        <hr>
+        <input type="text" name="nev" id="nev" maxlength="10" placeholder="Ide írd a neved" 
+        value="">
+
+        <hr>
+        <input type="number" name="szam" id="szam" max="100" min="0" disabled>
+        <hr>
+        <select name="vegzetteseg[]" id="vegzetteseg" >
+            <option value="0">8 Általános</option>
+            <option value="1" >Szakközép</option>
+            <option value="2" selected>Egyetem</option>
+        </select>
+        <hr>
+        <input type="checkbox" name="aszf" id="aszf" checked> 
+        <label for="aszf">Elfogadom az általános....</label>
+        <hr>
+        <input type="radio" name="neme" id="ffi" checked>
+        <label for="ffi">Férfi</label>
+
+        <input type="radio" name="neme" id="no">
+        <label for="no">Nő</label> 
+
+        <input type="radio" name="neme" id="egy">
+        <label for="egy">Egyéb</label>
+
+        <hr>
+
+        <input type="file" name="valami" id="valami">
+        <hr>
+
+        <input type="email" name="emailcim" id="emailcim">
+
+        <hr>
+
+        <input type="password" name="jelszo" id="jelszo">
+
+        <hr>
+
+        <input type="range" name="csuszka" id="csuszka" min="1" max="100" step="1" value="50">
+        <hr>
+
+        <input type="hidden" name="rejtett" value="123456">
+
+        <hr>
+        <textarea name="szoveged" id="szoveged" readonly>hello</textarea>
+
+        <hr>
+        <input type="date" name="datum" id="datum">
+
+        <hr>
+
+        <input type="datetime-local" name="" id="">
+
+
+        <button type="submit">KÜLDÉS</button>
+    </form>
+</body>
+</html>

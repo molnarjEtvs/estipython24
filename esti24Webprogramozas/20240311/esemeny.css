@@ -1,0 +1,20 @@
+.szinezo{
+    background-color: #007274;
+    color: #fff;
+    border: 1px solid red;
+}
+.kozeppont{
+    background-color: aqua;
+}
+.eger{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+}
+.egerPiros{
+    background-color: red;
+}
+.egerPirosOut{
+    background-color: transparent;
+}

@@ -1,0 +1,24 @@
+.grid-container{
+    display: grid;
+    /*column-gap: 50px;
+    row-gap: 50px;*/
+    gap:50px;
+    grid-template-columns: auto auto auto;
+    background-color: aqua;
+    padding: 10px;
+}
+.grid-item{
+    background-color: #324ca9;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #000;
+}
+.item1{
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.item2{
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
