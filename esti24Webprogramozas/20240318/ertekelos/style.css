@@ -8,3 +8,14 @@
 .sotetCsillag{
     color: orange;
 }
+.jobbCsillag{
+    font-size: 3rem; 
+}
+#atlagolas{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.jobbCsillagTeli{
+    color: orange;
+    font-size: 3rem;
+}
