@@ -1,0 +1,18 @@
+span{
+    color: #ff0000;
+    background-color: rgba(255, 0, 0, 0.2);
+    padding: 3px;
+    /*border-width: 1px;
+    border-color: red;
+    border-style: solid;*/
+    border: 1px solid red;
+}
+#topMunka{
+    font-weight: bold;
+    letter-spacing: 0.3rem;
+    margin-bottom: 1.5rem;
+}
+.myHeader2{
+    letter-spacing: 0.2rem;
+    font-weight: bold;
+}
