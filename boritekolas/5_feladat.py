@@ -1,0 +1,13 @@
+f = open("feladat5.txt","w",encoding="utf-8")
+nev = input("Add meg a neved: ")
+f.write(f"{nev}\n")
+szulIdo = input("Add meg a születési éved: ")
+f.write(f"{szulIdo}\n")
+osztaly = input("Add meg az osztályod: ")
+f.write(f"{osztaly}\n")
+f.close()
+
+o = open("feladat5.txt","r",encoding="utf-8")
+elsoHaromKarater = o.read(3)
+print(f"{elsoHaromKarater}")
+o.close()

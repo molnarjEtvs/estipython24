@@ -1,0 +1,96 @@
+Név: Ash
+Rang: 41
+Szint: Gold II
+Név: 18.76%
+KIVÁLÓ
+#############################
+Név: Thermite
+Rang: 48
+Szint: Platinum III
+Név: 36.0%
+KIVÁLÓ
+#############################
+Név: Sledge
+Rang: 30
+Szint: Silver I
+Név: 13.24%
+KIVÁLÓ
+#############################
+Név: Mira
+Rang: 37
+Szint: Diamond
+Név: 84.34%
+KIVÁLÓ
+#############################
+Név: Jäger
+Rang: 50
+Szint: Gold I
+Név: 80.5%
+KIVÁLÓ
+#############################
+Név: Valkyrie
+Rang: 41
+Szint: Platinum II
+Név: 69.24%
+KIVÁLÓ
+#############################
+Név: Bandit
+Rang: 29
+Szint: Gold III
+Név: 48.14%
+KIVÁLÓ
+#############################
+Név: Rook
+Rang: 46
+Szint: Silver II
+Név: 52.18%
+KIVÁLÓ
+#############################
+Név: Frost
+Rang: 35
+Szint: Platinum I
+Név: 80.14%
+KIVÁLÓ
+#############################
+Név: Doc
+Rang: 34
+Szint: Gold IV
+Név: 90.62%
+KIVÁLÓ
+#############################
+Név: Pulse
+Rang: 35
+Szint: Silver III
+Név: 101.58%
+KIVÁLÓ
+#############################
+Név: Ela
+Rang: 36
+Szint: Diamond
+Név: 86.75999999999999%
+KIVÁLÓ
+#############################
+Név: Caveira
+Rang: 27
+Szint: Silver IV
+Név: 53.96%
+KIVÁLÓ
+#############################
+Név: Montagne
+Rang: 38
+Szint: Diamond
+Név: 59.019999999999996%
+KIVÁLÓ
+#############################
+Név: Hibana
+Rang: 39
+Szint: Champion
+Név: 66.28%
+KIVÁLÓ
+#############################
+Név: Mute
+Rang: 42
+Szint: Bronze I
+Név: 74.38%
+KIVÁLÓ
+#############################
