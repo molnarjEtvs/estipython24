@@ -1,0 +1,725 @@
+Azonosító: 1
+Hős neve: Aatrox
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 2
+Hős neve: Ahri
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 3
+Hős neve: Akali
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 4
+Hős neve: Alistar
+Nehézségi szint: Easy
+Képesség: bájolás
+###################################
+Azonosító: 5
+Hős neve: Amumu
+Nehézségi szint: Easy
+Képesség: bájolás
+###################################
+Azonosító: 6
+Hős neve: Anivia
+Nehézségi szint: Hard
+Képesség: halál
+###################################
+Azonosító: 7
+Hős neve: Annie
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 8
+Hős neve: Ashe
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 9
+Hős neve: Aurelion Sol
+Nehézségi szint: Hard
+Képesség: végítélet
+###################################
+Azonosító: 10
+Hős neve: Azir
+Nehézségi szint: Hard
+Képesség: bájolás
+###################################
+Azonosító: 11
+Hős neve: Bard
+Nehézségi szint: Hard
+Képesség: végítélet
+###################################
+Azonosító: 12
+Hős neve: Blitzcrank
+Nehézségi szint: Easy
+Képesség: bájolás
+###################################
+Azonosító: 13
+Hős neve: Brand
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 14
+Hős neve: Braum
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 15
+Hős neve: Caitlyn
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 16
+Hős neve: Camille
+Nehézségi szint: Hard
+Képesség: bájolás
+###################################
+Azonosító: 17
+Hős neve: Cassiopeia
+Nehézségi szint: Hard
+Képesség: bájolás
+###################################
+Azonosító: 18
+Hős neve: Cho Gath
+Nehézségi szint: Easy
+Képesség: bájolás
+###################################
+Azonosító: 19
+Hős neve: Corki
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 20
+Hős neve: Darius
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 21
+Hős neve: Diana
+Nehézségi szint: Easy
+Képesség: bájolás
+###################################
+Azonosító: 22
+Hős neve: Dr.Mundo
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 23
+Hős neve: Draven
+Nehézségi szint: Hard
+Képesség: bájolás
+###################################
+Azonosító: 24
+Hős neve: Ekko
+Nehézségi szint: Hard
+Képesség: átokszórás
+###################################
+Azonosító: 25
+Hős neve: Elise
+Nehézségi szint: Hard
+Képesség: halál
+###################################
+Azonosító: 26
+Hős neve: Evelynn
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 27
+Hős neve: Ezreal
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 28
+Hős neve: Fiddlesticks
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 29
+Hős neve: Fiora
+Nehézségi szint: Hard
+Képesség: átokszórás
+###################################
+Azonosító: 30
+Hős neve: Fizz
+Nehézségi szint: Hard
+Képesség: halál
+###################################
+Azonosító: 31
+Hős neve: Galio
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 32
+Hős neve: Gangplank
+Nehézségi szint: Hard
+Képesség: halál
+###################################
+Azonosító: 33
+Hős neve: Garen
+Nehézségi szint: Easy
+Képesség: átokszórás
+###################################
+Azonosító: 34
+Hős neve: Gnar
+Nehézségi szint: Hard
+Képesség: halál
+###################################
+Azonosító: 35
+Hős neve: Gragas
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 36
+Hős neve: Graves
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 37
+Hős neve: Hecarim
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 38
+Hős neve: Heimerdinger
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 39
+Hős neve: Illaoi
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 40
+Hős neve: Irelia
+Nehézségi szint: Hard
+Képesség: halál
+###################################
+Azonosító: 41
+Hős neve: Ivern
+Nehézségi szint: Hard
+Képesség: végítélet
+###################################
+Azonosító: 42
+Hős neve: Janna
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 43
+Hős neve: Jarvan IV
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 44
+Hős neve: Jax
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 45
+Hős neve: Jayce
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 46
+Hős neve: Jhin
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 47
+Hős neve: Jinx
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 48
+Hős neve: Kai Sa
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 49
+Hős neve: Kalista
+Nehézségi szint: Hard
+Képesség: átokszórás
+###################################
+Azonosító: 50
+Hős neve: Karma
+Nehézségi szint: Easy
+Képesség: bájolás
+###################################
+Azonosító: 51
+Hős neve: Karthus
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 52
+Hős neve: Kassadin
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 53
+Hős neve: Katarina
+Nehézségi szint: Hard
+Képesség: végítélet
+###################################
+Azonosító: 54
+Hős neve: Kayle
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 55
+Hős neve: Kayn
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 56
+Hős neve: Kennen
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 57
+Hős neve: Kha Zix
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 58
+Hős neve: Kindred
+Nehézségi szint: Hard
+Képesség: bájolás
+###################################
+Azonosító: 59
+Hős neve: Kled
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 60
+Hős neve: Kog Maw
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 61
+Hős neve: Leblanc
+Nehézségi szint: Hard
+Képesség: végítélet
+###################################
+Azonosító: 62
+Hős neve: Lee Sin
+Nehézségi szint: Hard
+Képesség: végítélet
+###################################
+Azonosító: 63
+Hős neve: Leona
+Nehézségi szint: Easy
+Képesség: bájolás
+###################################
+Azonosító: 64
+Hős neve: Lissandra
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 65
+Hős neve: Lucian
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 66
+Hős neve: Lulu
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 67
+Hős neve: Lux
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 68
+Hős neve: Malphite
+Nehézségi szint: Easy
+Képesség: átokszórás
+###################################
+Azonosító: 69
+Hős neve: Malzahar
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 70
+Hős neve: Maokai
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 71
+Hős neve: Master Yi
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 72
+Hős neve: Miss Fortune
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 73
+Hős neve: Mordekaiser
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 74
+Hős neve: Morgana
+Nehézségi szint: Easy
+Képesség: bájolás
+###################################
+Azonosító: 75
+Hős neve: Nami
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 76
+Hős neve: Nasus
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 77
+Hős neve: Nautilus
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 78
+Hős neve: Neeko
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 79
+Hős neve: Nidalee
+Nehézségi szint: Hard
+Képesség: bájolás
+###################################
+Azonosító: 80
+Hős neve: Nocturne
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 81
+Hős neve: Nunu
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 82
+Hős neve: Olaf
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 83
+Hős neve: Orianna
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 84
+Hős neve: Ornn
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 85
+Hős neve: Pantheon
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 86
+Hős neve: Poppy
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 87
+Hős neve: Pyke
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 88
+Hős neve: Qiyana
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 89
+Hős neve: Quinn
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 90
+Hős neve: Rakan
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 91
+Hős neve: Rammus
+Nehézségi szint: Easy
+Képesség: átokszórás
+###################################
+Azonosító: 92
+Hős neve: Rek Sai
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 93
+Hős neve: Renekton
+Nehézségi szint: Easy
+Képesség: bájolás
+###################################
+Azonosító: 94
+Hős neve: Rengar
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 95
+Hős neve: Riven
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 96
+Hős neve: Rumble
+Nehézségi szint: Hard
+Képesség: átokszórás
+###################################
+Azonosító: 97
+Hős neve: Ryze
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 98
+Hős neve: Sejuani
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 99
+Hős neve: Shaco
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 100
+Hős neve: Shen
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 101
+Hős neve: Shyvana
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 102
+Hős neve: Singed
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 103
+Hős neve: Sion
+Nehézségi szint: Easy
+Képesség: átokszórás
+###################################
+Azonosító: 104
+Hős neve: Sivir
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 105
+Hős neve: Skarner
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 106
+Hős neve: Sona
+Nehézségi szint: Easy
+Képesség: átokszórás
+###################################
+Azonosító: 107
+Hős neve: Soraka
+Nehézségi szint: Easy
+Képesség: átokszórás
+###################################
+Azonosító: 108
+Hős neve: Swain
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 109
+Hős neve: Sylas
+Nehézségi szint: Hard
+Képesség: halál
+###################################
+Azonosító: 110
+Hős neve: Syndra
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 111
+Hős neve: Tahm Kench
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 112
+Hős neve: Taliyah
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 113
+Hős neve: Talon
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 114
+Hős neve: Taric
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 115
+Hős neve: Teemo
+Nehézségi szint: Easy
+Képesség: átokszórás
+###################################
+Azonosító: 116
+Hős neve: Thresh
+Nehézségi szint: Hard
+Képesség: halál
+###################################
+Azonosító: 117
+Hős neve: Tristana
+Nehézségi szint: Easy
+Képesség: bájolás
+###################################
+Azonosító: 118
+Hős neve: Trundle
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 119
+Hős neve: Tryndamere
+Nehézségi szint: Easy
+Képesség: átokszórás
+###################################
+Azonosító: 120
+Hős neve: Twisted Fate
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 121
+Hős neve: Twitch
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 122
+Hős neve: Udyr
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 123
+Hős neve: Urgot
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 124
+Hős neve: Varus
+Nehézségi szint: Medium
+Képesség: halál
+###################################
+Azonosító: 125
+Hős neve: Vayne
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 126
+Hős neve: Veigar
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 127
+Hős neve: Vel Koz
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 128
+Hős neve: Vi
+Nehézségi szint: Easy
+Képesség: átokszórás
+###################################
+Azonosító: 129
+Hős neve: Viktor
+Nehézségi szint: Hard
+Képesség: bájolás
+###################################
+Azonosító: 130
+Hős neve: Vladimir
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 131
+Hős neve: Volibear
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 132
+Hős neve: Warwick
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 133
+Hős neve: Wukong
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 134
+Hős neve: Xayah
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################
+Azonosító: 135
+Hős neve: Xerath
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 136
+Hős neve: Xin Zhao
+Nehézségi szint: Easy
+Képesség: bájolás
+###################################
+Azonosító: 137
+Hős neve: Yasuo
+Nehézségi szint: Hard
+Képesség: átokszórás
+###################################
+Azonosító: 138
+Hős neve: Yorick
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 139
+Hős neve: Yuumi
+Nehézségi szint: Easy
+Képesség: halál
+###################################
+Azonosító: 140
+Hős neve: Zac
+Nehézségi szint: Easy
+Képesség: végítélet
+###################################
+Azonosító: 141
+Hős neve: Zed
+Nehézségi szint: Hard
+Képesség: halál
+###################################
+Azonosító: 142
+Hős neve: Ziggs
+Nehézségi szint: Medium
+Képesség: átokszórás
+###################################
+Azonosító: 143
+Hős neve: Zilean
+Nehézségi szint: Medium
+Képesség: végítélet
+###################################
+Azonosító: 144
+Hős neve: Zoe
+Nehézségi szint: Hard
+Képesség: halál
+###################################
+Azonosító: 145
+Hős neve: Zyra
+Nehézségi szint: Medium
+Képesség: bájolás
+###################################

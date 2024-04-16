@@ -1,0 +1,13 @@
+.myHeader{
+    background-color: #ffc416;
+}
+#myH1{
+    color: #f70707;
+    font-weight: bold;
+}
+span{
+    font-weight: bold;
+    color:#ff0000;
+    padding: 5px;
+    background-color: rgba(255, 200, 250, 0.15);
+}
