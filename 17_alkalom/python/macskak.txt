@@ -1,0 +1,30 @@
+Cirmi,3,Perzsa
+Bogyó,1,Maine Coon
+Süti,2,British Shorthair
+Mogyi,4,Siamese
+Pityu,2,Scottish Fold
+Cirmi,2,Abyssinian
+Bundás,5,Ragdoll
+Mancs,3,Bengal
+Cicó,2,Sphynx
+Morzsi,4,Birman
+Pompom,1,Burmese
+Dundi,3,Siberian
+Cirmi,2,Oriental
+Cirmi,3,Exotic Shorthair
+Macska,1,British Longhair
+Szőrös,4,Norwegian Forest Cat
+Cirmi,2,Turkish Angora
+Cirmi,3,Bombay
+Macska,3,Himalayan
+Dundi,2,Selkirk Rex
+Bogyó,5,Devon Rex
+Macska,1,Somali
+Pityu,2,Cornish Rex
+Cirmi,4,Chartreux
+Bogyó,3,British Semi-longhair
+Cirmi,2,Singapura
+Cirmi,1,Korat
+Cirmi,4,Toyger
+Macska,3,Savannah
+Süti,2,Manx
