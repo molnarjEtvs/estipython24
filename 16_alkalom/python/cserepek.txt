@@ -1,0 +1,178 @@
+Növény: Rózsa
+Fényigény/Vízigény: magas/közepes
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 46%
+Tartályszint: 104ml
+******************************
+Növény: Orchidea
+Fényigény/Vízigény: magas/magas
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 24%
+Tartályszint: 126ml
+KÉNYES NÖVÉNY!
+******************************
+Növény: Nárcisz
+Fényigény/Vízigény: alacsony/alacsony
+Ültetés hónapja: 10.hónap
+Talajnedvesség: 1%
+Tartályszint: 149ml
+******************************
+Növény: Körömvirág
+Fényigény/Vízigény: magas/magas
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 37%
+Tartályszint: 113ml
+KÉNYES NÖVÉNY!
+******************************
+Növény: Tulipán
+Fényigény/Vízigény: közepes/magas
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 28%
+Tartályszint: 122ml
+******************************
+Növény: Hortenzia
+Fényigény/Vízigény: alacsony/közepes
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 41%
+Tartályszint: 109ml
+******************************
+Növény: Levendula
+Fényigény/Vízigény: közepes/alacsony
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 21%
+Tartályszint: 129ml
+******************************
+Növény: Százszorszép
+Fényigény/Vízigény: magas/közepes
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 26%
+Tartályszint: 124ml
+******************************
+Növény: Fenyő
+Fényigény/Vízigény: alacsony/magas
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 30%
+Tartályszint: 120ml
+******************************
+Növény: Tölgy
+Fényigény/Vízigény: magas/közepes
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 8%
+Tartályszint: 142ml
+******************************
+Növény: Nyír
+Fényigény/Vízigény: alacsony/alacsony
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 37%
+Tartályszint: 113ml
+******************************
+Növény: Borostyán
+Fényigény/Vízigény: közepes/magas
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 46%
+Tartályszint: 104ml
+******************************
+Növény: Babér
+Fényigény/Vízigény: magas/közepes
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 36%
+Tartályszint: 114ml
+******************************
+Növény: Menta
+Fényigény/Vízigény: alacsony/alacsony
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 7%
+Tartályszint: 143ml
+******************************
+Növény: Petúnia
+Fényigény/Vízigény: közepes/magas
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 42%
+Tartályszint: 108ml
+******************************
+Növény: Ibolya
+Fényigény/Vízigény: magas/alacsony
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 30%
+Tartályszint: 120ml
+******************************
+Növény: Kaktusz
+Fényigény/Vízigény: alacsony/alacsony
+Ültetés hónapja: 0.hónap
+Talajnedvesség: 7%
+Tartályszint: 143ml
+******************************
+Növény: Szőlő
+Fényigény/Vízigény: magas/közepes
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 46%
+Tartályszint: 104ml
+******************************
+Növény: Citromfű
+Fényigény/Vízigény: közepes/alacsony
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 17%
+Tartályszint: 133ml
+******************************
+Növény: Fűzfa
+Fényigény/Vízigény: alacsony/közepes
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 41%
+Tartályszint: 109ml
+******************************
+Növény: Málna
+Fényigény/Vízigény: közepes/alacsony
+Ültetés hónapja: 10.hónap
+Talajnedvesség: 17%
+Tartályszint: 133ml
+******************************
+Növény: Sárgadinnye
+Fényigény/Vízigény: magas/magas
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 21%
+Tartályszint: 129ml
+KÉNYES NÖVÉNY!
+******************************
+Növény: Paprika
+Fényigény/Vízigény: közepes/közepes
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 29%
+Tartályszint: 121ml
+******************************
+Növény: Paradicsom
+Fényigény/Vízigény: magas/magas
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 11%
+Tartályszint: 139ml
+KÉNYES NÖVÉNY!
+******************************
+Növény: Kukorica
+Fényigény/Vízigény: alacsony/közepes
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 41%
+Tartályszint: 109ml
+******************************
+Növény: Répa
+Fényigény/Vízigény: magas/alacsony
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 13%
+Tartályszint: 137ml
+******************************
+Növény: Spenót
+Fényigény/Vízigény: közepes/közepes
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 6%
+Tartályszint: 144ml
+******************************
+Növény: Borsó
+Fényigény/Vízigény: alacsony/magas
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 34%
+Tartályszint: 116ml
+******************************
+Növény: Dinnye
+Fényigény/Vízigény: magas/közepes
+Ültetés hónapja: 3.hónap
+Talajnedvesség: 33%
+Tartályszint: 117ml
+******************************

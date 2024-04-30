@@ -1,0 +1,17 @@
+.myLetter{
+    letter-spacing: 0.4rem;
+}
+#myBlock{
+    background-image: url('./img/deimos.avif');
+    background-repeat: no-repeat;
+    background-position: top center;
+    min-height: 42rem;
+}
+.myMarginTop{
+    margin-top: 20rem;
+}
+span{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.4rem;    
+}
